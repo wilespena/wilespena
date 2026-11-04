@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Wiles Pena 👋
 
-<!--
-**wilespena/wilespena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder & Lead Developer** at [AivaPad](https://aivapad.io) and [Guiaste Digital Agency](https://guiaste.io)  
+🎓 **Software Engineering Student** specializing in **Cybersecurity**  
+📍 Based in **Canada** 🇨🇦  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I am a software developer and tech entrepreneur with a 13+ year background spanning telecommunications, physical IT infrastructure, multi-state enterprise networking, electronic security, and modern web/SaaS development. 
+
+Having worked from the physical network layer all the way up to cloud-deployed applications, I focus on building fast, reliable, and secure digital products.
+
+### 🛠️ Tech Stack & Focus Areas
+- **Languages & Web:** C, JavaScript / TypeScript, HTML5, CSS3
+- **Systems & Infrastructure:** Linux, Enterprise Networking, Cloud & Serverless Architecture
+- **Security:** Cybersecurity Foundations (Google Certified), Vulnerability Analysis, Application Security
+
+### 📌 Featured Projects
+- **[AivaPad](https://aivapad.io):** SaaS platform engineered for business automation and intelligent lead/communication management.
+- **[Guiaste Digital Agency](https://guiaste.io):** Custom web systems, digital infrastructure, and automation services.
+
+### 📫 Connect with Me
+- **Websites:** [aivapad.io](https://aivapad.io) | [guiaste.io](https://guiaste.io)
+- **LinkedIn:** [linkedin.com/in/wilespena](https://www.linkedin.com/in/wilespena)
